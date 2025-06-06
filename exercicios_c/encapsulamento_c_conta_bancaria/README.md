@@ -17,7 +17,8 @@ Este projeto simula um banco simples com uma conta bancária, implementado em li
 
 ## 📁 Estrutura do Projeto	
 
-/banco
+/banco/
+
 main.c // Código principal com menu
 
 conta.c // Implementação das funções
