@@ -18,11 +18,15 @@ Este projeto simula um banco simples com uma conta bancária, implementado em li
 ## 📁 Estrutura do Projeto	
 
 /banco
-├── main.c // Código principal com menu
-├── conta.c // Implementação das funções
-├── conta.h // Cabeçalho (protótipos e typedef)
-├── banco.exe // Executável (opcional, para Windows)
-└── README.md // Instruções de uso
+main.c // Código principal com menu
+
+conta.c // Implementação das funções
+
+conta.h // Cabeçalho (protótipos e typedef)
+
+banco.exe // Executável (opcional, para Windows)
+
+README.md // Instruções de uso
 
 
 ---
