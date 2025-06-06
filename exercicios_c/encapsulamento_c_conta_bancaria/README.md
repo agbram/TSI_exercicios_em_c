@@ -46,7 +46,7 @@ README.md // Instruções de uso
 
 3. Clique duas vezes em `banco.exe` ou execute via terminal (cmd/powershell):
 
-   `cmd
+   ```cmd
    ./banco.exe
 
 
