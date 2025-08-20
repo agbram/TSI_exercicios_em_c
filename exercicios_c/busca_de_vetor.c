@@ -25,10 +25,10 @@ int main() {
     }
 
     // saída: índice ou -1
-    if (pos >= 0)
-        printf("O valor %d foi encontrado na posição %d.\n", num, pos);
+    if (posicao >= 0)
+        printf("O valor %d foi encontrado na posição %d.\n", num, posicao);
     else
-        printf("Valor não encontrado. Retornando %d.\n", pos);
+        printf("Valor não encontrado. Retornando %d.\n", posicao);
 
     return 0;
 }
